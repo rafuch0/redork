@@ -1,0 +1,4 @@
+Satisfy Any
+Allow from all
+
+ErrorDocument 404 /r/index.php
